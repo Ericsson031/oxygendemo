@@ -1,8 +1,10 @@
 allTypes={
 'dresses':'A',
+'clothing':'A',
 'tops':'A',
 'bottoms':'A',
 'all in ones':'A',
+'allinones':'A',
 'outerwear':'A',
 'swimwear':'A',
 'heels':'S',
@@ -17,4 +19,5 @@ allTypes={
 'bags':'B',
 'hats':'R',
 'accessories':'R',
+'shoes':'S',
 }
